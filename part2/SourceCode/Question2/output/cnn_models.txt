@@ -1,0 +1,6 @@
+Model: validation F1 score, training time
+./models/self-trained-model-cnn-layer-num-1: 0.8974752644148755, 11791.295308589935
+./models/self-trained-model-cnn-layer-num-2: 0.9038858321870701, 19502.53906559944
+./models/self-trained-model-cnn-layer-num-3: 0.9102585769815784, 12181.533412218094
+./models/self-trained-model-cnn-layer-num-4: 0.8934754797441367, 12498.206154108047
+Best model: ./models/self-trained-model-cnn-layer-num-3 with validation F1 score = 0.9102585769815784
